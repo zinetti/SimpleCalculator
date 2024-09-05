@@ -18,12 +18,12 @@ To get started with this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/simple-calculator.git
+    git clone https://github.com/your-username/simpleCalculator.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd simple-calculator
+    cd simpleCalculator
     ```
 
 3. Open `index.html` in your web browser to see the calculator in action. 🌐
